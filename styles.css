@@ -1,0 +1,27 @@
+body
+{
+    margin: 0px;
+    text-align: center;
+}
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1
+{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 0;
+    padding: 8px;
+    font-size: 60px;
+}
+ul
+{
+   display: inline-block;
+   
+}
+li
+{
+    font-size: 20px;
+}
